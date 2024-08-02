@@ -1,0 +1,3 @@
+[submodule "alacritty-nordtheme"]
+	path = alacritty-nordtheme
+	url = git@github.com:water-dropwort/alacritty-nordtheme.git
