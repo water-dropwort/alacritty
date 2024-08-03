@@ -1,2 +1,8 @@
 import:
   - ~/.config/alacritty/alacritty-nordtheme/src/nord.yaml
+shell:
+  program: /bin/bash
+  args:
+   - --login
+   - -c
+   - "tmux"
