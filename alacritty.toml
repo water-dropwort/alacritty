@@ -1,0 +1,5 @@
+import = ["/home/daichi/.config/alacritty/alacritty-nordtheme/src/nord.toml"]
+
+[shell]
+args = ["--login", "-c", "tmux"]
+program = "/bin/bash"
